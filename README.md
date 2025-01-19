@@ -14,7 +14,7 @@ If you use our codes and data in a publication or for any other purposes, please
 
 **References**
 -----
-- Liu J., Leung J.C.H., Tian W., Huang H., Xu D., Li W., Qian W., Zhang B. MA: Questioning whether seasonal advance of intense tropical cyclones since the 1980s truly exists. Nature (under review). <!-- https://doi.org/10.1007/s00382-022-06142-2 -->
+- Liu J., Leung J.C.H., Tian W., Huang H., Xu D., Li W., Qian W., Zhang B. MA: Questioning whether seasonal advance of intense tropical cyclones since the 1980s truly exists. _Nature_ (under review). <!-- https://doi.org/10.1007/s00382-022-06142-2 -->
 <br /> 
 
 **Contact**
