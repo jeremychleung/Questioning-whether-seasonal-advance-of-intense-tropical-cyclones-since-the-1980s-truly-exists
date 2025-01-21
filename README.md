@@ -5,6 +5,13 @@ This repository contains the codes that were employed in the [_Nature_](https://
 Note: The Python scripts in this repository are written and tested using **Python 3.12**. 
 <br /> <br /> 
 
+**Usage notes**
+-----
+Some of the input data may not be available in this repo due to the limited storage space. You may download these data from the following link:
+- ADT-HURSAT: https://www.pnas.org/doi/10.1073/pnas.1920849117#supplementary-materials
+- IBTrACS (v4.01): https://www.ncei.noaa.gov/products/international-best-track-archive
+<br />
+
 **Citation**
 -----
 If you use our codes and data in a publication or for any other purposes, please cite 
