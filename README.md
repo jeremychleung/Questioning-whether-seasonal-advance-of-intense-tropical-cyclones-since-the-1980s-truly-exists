@@ -7,7 +7,7 @@ Note: The Python scripts in this repository are written and tested using **Pytho
 
 **Usage notes**
 -----
-Some of the input data may not be available in this repo due to the limited storage space. You may download these data from the following link:
+Some of the input data may not be available in this repo due to the storage limits. You may download these data from the following link:
 - ADT-HURSAT: https://www.pnas.org/doi/10.1073/pnas.1920849117#supplementary-materials
 - IBTrACS (v4.01): https://www.ncei.noaa.gov/products/international-best-track-archive
 <br />
